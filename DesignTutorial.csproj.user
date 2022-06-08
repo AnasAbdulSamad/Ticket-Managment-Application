@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>true</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Button_WOC.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="FormCancel_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEnclosure_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEnclosure_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormBook_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormFees_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormFees_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSchedule_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSchedule_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormTicket_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
